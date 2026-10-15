@@ -2,7 +2,7 @@
 
 A decision-driven simulation where each choice about an AI agent's permissions and actions changes the system state, creating cascading consequences for security, data integrity, and recovery.
 
-**▶ Play it here:** https://YOUR-USERNAME.github.io/ai-agent-simulation/
+**▶ Play it here:** https://asmipulgam.github.io/ai-agent-simulation/
 
 ---
 
@@ -59,7 +59,7 @@ Least privilege · separate identities for AI agents · human-in-the-loop approv
 No installation or build step is needed. Download or clone the repo and open `index.html` in any modern browser.
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/ai-agent-simulation.git
+git clone https://github.com/asmipulgam/ai-agent-simulation.git
 cd ai-agent-simulation
 open index.html        # macOS. On Windows, double-click index.html
 ```
@@ -74,7 +74,3 @@ app.js       simulation engine, scenarios, scoring, charts and illustrations
 
 The project is plain HTML, CSS and JavaScript with no frameworks or libraries. All illustrations and charts are drawn in code (SVG), so there are no third-party image licensing issues.
 
-## Credits
-
-Inspired by the structure of [Data Center Genesis](https://sunburnedship.github.io/Responsible-Data-Center-Genesis/).
-Brightleaf Market and Atlas are fictional.
